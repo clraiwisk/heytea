@@ -19,9 +19,3 @@
 - 我的-阿喜有礼
 - 会员码
 - 任务中心
-
-### 展示效果
-
-|点单|首页|百货|订单|我的|
-|---|---|---|---|---|
-|![](https://img.cdn.aliyun.dcloud.net.cn/stream/plugin_screens/c7ab7d00-a62a-11ea-8698-3fa69385df82_0.jpg?v=1591251998)|![](https://img.cdn.aliyun.dcloud.net.cn/stream/plugin_screens/c7ab7d00-a62a-11ea-8698-3fa69385df82_1.jpg?v=1591251998)|![](https://img.cdn.aliyun.dcloud.net.cn/stream/plugin_screens/c7ab7d00-a62a-11ea-8698-3fa69385df82_2.jpg?v=1591251998)|![](https://img.cdn.aliyun.dcloud.net.cn/stream/plugin_screens/c7ab7d00-a62a-11ea-8698-3fa69385df82_3.jpg?v=1591251998)|![](https://img.cdn.aliyun.dcloud.net.cn/stream/plugin_screens/c7ab7d00-a62a-11ea-8698-3fa69385df82_4.jpg?v=1591251998)|
